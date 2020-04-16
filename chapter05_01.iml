@@ -14,8 +14,7 @@
       <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
     </content>
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="jdk" jdkName="JavaSE-1.6" jdkType="JavaSDK" />
-    <orderEntry type="library" name="melibrary.com.genuitec.eclipse.lib.hibernate41.MYECLIPSE_HIBERNATE_4_1_CORE" level="application" />
+    <orderEntry type="jdk" jdkName="1.8" jdkType="JavaSDK" />
     <orderEntry type="module-library">
       <library name="sqljdbc4.jar">
         <CLASSES>
@@ -25,6 +24,5 @@
         <SOURCES />
       </library>
     </orderEntry>
-    <orderEntry type="library" name="tomcat-api" level="project" />
   </component>
 </module>
